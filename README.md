@@ -30,5 +30,7 @@ I also make my own comprehensible input videos for German learners as **[ThatGer
 [![Instagram](https://img.shields.io/badge/Instagram-thatgermanword-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thatgermanword)
 [![Dog sitting](https://img.shields.io/badge/Dog_sitting-dogsit.nl-2563EB?style=for-the-badge)](https://dogsit.nl)
 [![About me](https://img.shields.io/badge/About-urff.me-4B5563?style=for-the-badge)](https://urff.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tobyurff-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobyurff)
+[![Email](https://img.shields.io/badge/Email-toby@reelang.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toby@reelang.com)
 
 </div>
