@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="https://reelang.com/brand/reelang-wordmark-on-black.jpg" alt="Reelang" width="420" />](https://reelang.com)
+[<img src="https://reelang.com/brand/reelang-wordmark-on-white.jpg" alt="Reelang" width="420" />](https://reelang.com)
 
 ### Learn a language from videos you can't stop watching
 
