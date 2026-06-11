@@ -17,7 +17,7 @@ It's **built on comprehensible input** — Reelang starts with speech you can fo
 I also make my own comprehensible input videos for German learners as **[ThatGermanWord](https://thatgermanword.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)** 🥨 — on TikTok, YouTube, and Instagram.
 
 - 🎬 **[reelang.com](https://reelang.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)** — watch your first video, free, no signup required
-- 🥨 **[thatgermanword.com](https://thatgermanword.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)** — comprehensible input for German learners
+- 🥨 **[thatgermanword.com](https://thatgermanword.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)** — comprehensible input for German learners ([YouTube](https://www.youtube.com/@thatgermanword) · [Instagram](https://www.instagram.com/thatgermanword) · [TikTok](https://www.tiktok.com/@thatgermanword))
 - 🐶 **[dogsit.nl](https://dogsit.nl)** — when I'm not building, I'm a dog sitter in Amsterdam
 - 👋 **[urff.me](https://urff.me)** — a bit more about me
 
